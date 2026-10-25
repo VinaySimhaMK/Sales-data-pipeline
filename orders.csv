@@ -1,0 +1,7 @@
+order_id,customer_id,item,amount
+101,1,pen,10
+102,2,book,50
+102,2,book,50
+103,1,bag,200
+104,4,bottle,120
+105,3,notebook,
